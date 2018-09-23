@@ -29,7 +29,7 @@ body {
      background: #40E0D0;
      float: left;
      width: 20%;
-     height: 280px;
+     height: 280px; /*280*/
 }
 
 #content {
