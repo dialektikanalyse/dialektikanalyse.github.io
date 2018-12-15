@@ -32,11 +32,25 @@ body {
      height: 280px; /*280*/
 }
 
+#sidebar_ {
+     background: #40E0D0;
+     float: left;
+     width: 20%;
+     height: 560px; /*280*/
+}
+
 #content {
      background: #DCDCDC;
      float: right;
      width: 80%;
      height: 280px;
+}
+
+#content_ {
+     background: #DCDCDC;
+     float: right;
+     width: 80%;
+     height: 560px;
 }
  
 #clear {
